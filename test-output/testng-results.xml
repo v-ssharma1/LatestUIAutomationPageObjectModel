@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[LoginTestClass started.]]>
+    </line>
+    <line>
+      <![CDATA[tesRagitsrationTest started.]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_53356_24_08_2019_04_24_38.png'> <img src='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_53356_24_08_2019_04_24_38.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_97581_24_08_2019_04_24_38.png'> <img src='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_97581_24_08_2019_04_24_38.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_32822_24_08_2019_04_24_38.png'> <img src='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_32822_24_08_2019_04_24_38.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_86503_24_08_2019_04_24_38.png'> <img src='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_86503_24_08_2019_04_24_38.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[tesRagitsrationTest passed.]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12822" started-at="2019-08-24T21:24:32Z" finished-at="2019-08-24T21:24:45Z">
+    <groups>
+    </groups>
+    <test name="LoginTest" duration-ms="12822" started-at="2019-08-24T21:24:32Z" finished-at="2019-08-24T21:24:45Z">
+      <class name="com.uiAutomationRetailSite.Expedia.GCO.TestScripts.RagistrationTest.RagistrationTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.uiAutomationRetailSite.Expedia.GCO.TestScripts.RagistrationTest.RagistrationTest@5a4041cc]" name="beforeSuite" is-config="true" duration-ms="105" started-at="2019-08-24T21:24:32Z" finished-at="2019-08-24T21:24:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.uiAutomationRetailSite.Expedia.GCO.TestScripts.RagistrationTest.RagistrationTest@5a4041cc]" name="beforeTest" is-config="true" duration-ms="1513" started-at="2019-08-24T21:24:32Z" finished-at="2019-08-24T21:24:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.uiAutomationRetailSite.Expedia.GCO.TestScripts.RagistrationTest.RagistrationTest@5a4041cc]" name="beforeMethod" is-config="true" duration-ms="7" started-at="2019-08-24T21:24:34Z" finished-at="2019-08-24T21:24:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.uiAutomationRetailSite.Expedia.GCO.TestScripts.RagistrationTest.RagistrationTest.tesRagitsration()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="tesRagitsration()[pri:0, instance:com.uiAutomationRetailSite.Expedia.GCO.TestScripts.RagistrationTest.RagistrationTest@5a4041cc]" name="tesRagitsration" duration-ms="10816" started-at="2019-08-24T21:24:34Z" finished-at="2019-08-24T21:24:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[tesRagitsrationTest started.]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_53356_24_08_2019_04_24_38.png'> <img src='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_53356_24_08_2019_04_24_38.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_97581_24_08_2019_04_24_38.png'> <img src='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_97581_24_08_2019_04_24_38.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_32822_24_08_2019_04_24_38.png'> <img src='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_32822_24_08_2019_04_24_38.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_86503_24_08_2019_04_24_38.png'> <img src='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_86503_24_08_2019_04_24_38.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[tesRagitsrationTest passed.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tesRagitsration -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.uiAutomationRetailSite.Expedia.GCO.TestScripts.RagistrationTest.RagistrationTest@5a4041cc]" name="afterMethod" is-config="true" duration-ms="304" started-at="2019-08-24T21:24:45Z" finished-at="2019-08-24T21:24:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tesRagitsration status=SUCCESS method=RagistrationTest.tesRagitsration()[pri:0, instance:com.uiAutomationRetailSite.Expedia.GCO.TestScripts.RagistrationTest.RagistrationTest@5a4041cc] output=tesRagitsrationTest started.]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.uiAutomationRetailSite.Expedia.GCO.TestScripts.RagistrationTest.RagistrationTest@5a4041cc]" name="afterTest" is-config="true" duration-ms="154" started-at="2019-08-24T21:24:45Z" finished-at="2019-08-24T21:24:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.uiAutomationRetailSite.Expedia.GCO.TestScripts.RagistrationTest.RagistrationTest -->
+    </test> <!-- LoginTest -->
+  </suite> <!-- Suite -->
+</testng-results>

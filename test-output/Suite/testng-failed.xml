@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="com.uiAutomationRetailSite.Expedia.GCO.Helper.Listener.ExtentListener"/>
+  </listeners>
+  <test thread-count="1" name="LoginTest(failed)" parallel="tests">
+    <classes>
+      <class name="com.uiAutomationRetailSite.Expedia.GCO.TestScripts.RagistrationTest.RagistrationTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="tesRagitsration"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeSuite"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.uiAutomationRetailSite.Expedia.GCO.TestScripts.RagistrationTest.RagistrationTest -->
+    </classes>
+  </test> <!-- LoginTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
