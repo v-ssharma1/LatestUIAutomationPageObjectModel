@@ -43,7 +43,7 @@ public class ProductCategoryPage {
 	@FindBy(xpath = "//*[@id='selectProductSort']")
 	public WebElement sortBy;
 
-	@FindBy(xpath = "//*[@id='center_column']/ul/li/div/div[2]/div/span[1]")
+	@FindBy(xpath = "//*[@id='center_column']/ul/li/div/div[2]/div/span[@itemprop='price']")
 	List<WebElement> allpriceElements;
 	//a[@class='quick-view']/following-sibling::div/span[@class='price product-price']
 

@@ -17,8 +17,8 @@ public class RagistrationTest extends TestBase {
 	LoginPage login;
 	MyAccountPage myAccountPage;
 
-	@Test
-	public void tesRagitsration() {
+	@Test(description = "Test the Ragitsration page.")
+	public void testRagitsration() {
 
 		// go to application
 		getApplicationUrl(ObjectReader.reader.getUrlFromPropertyFile());

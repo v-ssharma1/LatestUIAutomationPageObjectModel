@@ -18,6 +18,8 @@
 				name="com.uiAutomationRetailSite.Expedia.GCO.TestScripts.LoginTest.LoginTest" />-->
 				<class
 				name="com.uiAutomationRetailSite.Expedia.GCO.TestScripts.RagistrationTest.RagistrationTest" />
+				<class
+				name="com.uiAutomationRetailSite.Expedia.GCO.TestScripts.DecendingSortedPrice.DecendingSortedPrice" />
 			<!-- <class name="com.uiAutomationRetailSite.Expedia.GCO.TestScripts.TestScreenshot" 
 				/> -->
 		</classes>
