@@ -1937,3 +1937,102 @@ Driver info: driver.version: unknown
 2019-08-24 16:24:45 INFO  ExtentListener:73 - tesRagitsrationTest passed.
 2019-08-24 16:24:45 INFO  TestBase:202 - **************tesRagitsrationFinished***************
 2019-08-24 16:24:50 INFO  ExtentListener:23 - LoginTestTest Finished.
+2019-08-26 20:27:00 INFO  ExtentManager:37 - extent returned
+2019-08-26 20:27:02 INFO  TestBase:81 - Intialized the driver: 1550228904
+2019-08-26 20:27:02 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-26 20:27:02 INFO  WaitHelper:47 - Implicit wait for element to be loaded has been set to: 60 seconds
+2019-08-26 20:27:02 INFO  WaitHelper:37 - Waiting for page to load for: SECONDS seconds
+2019-08-26 20:27:02 INFO  WaitHelper:38 - Implicit wait has been set to: 60
+2019-08-26 20:27:02 INFO  WaitHelper:40 - Page is loaded.
+2019-08-26 20:27:03 INFO  TestBase:180 - **************validateLowestPriceStarted***************
+2019-08-26 20:27:06 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-26 20:27:06 INFO  WaitHelper:139 - waiting for :[[ChromeDriver: chrome on MAC (7fdc64a63cab66a981878d37231dbc02)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for :200 seconds
+2019-08-26 20:27:06 INFO  WaitHelper:142 - element is visible now
+2019-08-26 20:27:06 INFO  TestBase:125 - capturing ui navigation screen...
+2019-08-26 20:27:08 INFO  NavigationMenu:55 - clickin on : WOMEN
+2019-08-26 20:27:10 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-26 20:27:10 INFO  WaitHelper:139 - waiting for :[[ChromeDriver: chrome on MAC (7fdc64a63cab66a981878d37231dbc02)] -> xpath: //*[@id='layered_block_left']/p] for :200 seconds
+2019-08-26 20:27:10 INFO  WaitHelper:142 - element is visible now
+2019-08-26 20:27:10 INFO  TestBase:125 - capturing ui navigation screen...
+2019-08-26 20:27:10 INFO  DropDownHelper:23 - Dropdown helper has been initiated.
+2019-08-26 20:27:10 INFO  DropDownHelper:75 - Selecting Price: Lowest first from dropdown.
+2019-08-26 20:27:11 INFO  DropDownHelper:78 - Price: Lowest first has been selected.
+2019-08-26 20:27:19 INFO  DecendingSortedPrice:40 - 16.51
+2019-08-26 20:27:19 INFO  DecendingSortedPrice:40 - 27.00
+2019-08-26 20:27:19 INFO  DecendingSortedPrice:40 - 26.00
+2019-08-26 20:27:19 INFO  DecendingSortedPrice:40 - 50.99
+2019-08-26 20:27:19 INFO  DecendingSortedPrice:40 - 28.98
+2019-08-26 20:27:19 INFO  DecendingSortedPrice:40 - 30.50
+2019-08-26 20:27:19 INFO  DecendingSortedPrice:40 - 16.40
+2019-08-26 20:27:19 INFO  DecendingSortedPrice:46 - [16, 27, 26, 50, 28, 30, 16]
+2019-08-26 20:27:19 INFO  DecendingSortedPrice:49 - obj.get(i):-16
+2019-08-26 20:27:19 INFO  DecendingSortedPrice:50 - obj.get(i+1):-27
+2019-08-26 20:27:19 INFO  TestBase:202 - **************validateLowestPriceFinished***************
+<<<<<<< HEAD
+<<<<<<< HEAD
+2019-08-26 20:57:24 INFO  ExtentManager:37 - extent returned
+2019-08-26 20:57:25 INFO  TestBase:81 - Intialized the driver: 1550228904
+2019-08-26 20:57:25 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-26 20:57:25 INFO  WaitHelper:47 - Implicit wait for element to be loaded has been set to: 60 seconds
+2019-08-26 20:57:25 INFO  WaitHelper:37 - Waiting for page to load for: SECONDS seconds
+2019-08-26 20:57:25 INFO  WaitHelper:38 - Implicit wait has been set to: 60
+2019-08-26 20:57:26 INFO  WaitHelper:40 - Page is loaded.
+2019-08-26 20:57:26 INFO  TestBase:180 - **************validateLowestPriceStarted***************
+2019-08-26 20:57:29 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-26 20:57:29 INFO  WaitHelper:139 - waiting for :[[ChromeDriver: chrome on MAC (be914f26e9d12172a7066b55a541eda6)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for :200 seconds
+2019-08-26 20:57:29 INFO  WaitHelper:142 - element is visible now
+2019-08-26 20:57:29 INFO  TestBase:125 - capturing ui navigation screen...
+2019-08-26 20:57:30 INFO  NavigationMenu:55 - clickin on : WOMEN
+2019-08-26 20:57:32 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-26 20:57:32 INFO  WaitHelper:139 - waiting for :[[ChromeDriver: chrome on MAC (be914f26e9d12172a7066b55a541eda6)] -> xpath: //*[@id='layered_block_left']/p] for :200 seconds
+2019-08-26 20:57:32 INFO  WaitHelper:142 - element is visible now
+2019-08-26 20:57:32 INFO  TestBase:125 - capturing ui navigation screen...
+2019-08-26 20:57:32 INFO  DropDownHelper:23 - Dropdown helper has been initiated.
+2019-08-26 20:57:32 INFO  DropDownHelper:75 - Selecting Price: Lowest first from dropdown.
+2019-08-26 20:57:33 INFO  DropDownHelper:78 - Price: Lowest first has been selected.
+2019-08-26 20:57:41 INFO  ProductCategoryPage:165 - 16.51
+2019-08-26 20:57:41 INFO  ProductCategoryPage:165 - 27.00
+2019-08-26 20:57:41 INFO  ProductCategoryPage:165 - 26.00
+2019-08-26 20:57:41 INFO  ProductCategoryPage:165 - 50.99
+2019-08-26 20:57:41 INFO  ProductCategoryPage:165 - 28.98
+2019-08-26 20:57:41 INFO  ProductCategoryPage:165 - 30.50
+2019-08-26 20:57:41 INFO  ProductCategoryPage:165 - 16.40
+2019-08-26 20:57:41 INFO  ProductCategoryPage:149 - obj.get(i)..16
+2019-08-26 20:57:41 INFO  ProductCategoryPage:150 - obj.get(i+1)..27
+2019-08-26 20:57:41 INFO  ProductCategoryPage:152 - price filter is not working
+2019-08-26 20:57:41 INFO  TestBase:202 - **************validateLowestPriceFinished***************
+=======
+>>>>>>> df56135e3e3980d496dbe1e5490751ce426d26a7
+=======
+>>>>>>> df56135e3e3980d496dbe1e5490751ce426d26a7
+2019-08-26 21:40:28 INFO  ExtentManager:37 - extent returned
+2019-08-26 21:40:31 INFO  TestBase:81 - Intialized the driver: 1550228904
+2019-08-26 21:40:31 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-26 21:40:31 INFO  WaitHelper:47 - Implicit wait for element to be loaded has been set to: 60 seconds
+2019-08-26 21:40:31 INFO  WaitHelper:37 - Waiting for page to load for: SECONDS seconds
+2019-08-26 21:40:31 INFO  WaitHelper:38 - Implicit wait has been set to: 60
+2019-08-26 21:40:31 INFO  WaitHelper:40 - Page is loaded.
+2019-08-26 21:40:31 INFO  TestBase:180 - **************validateLowestPriceStarted***************
+2019-08-26 21:40:34 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-26 21:40:34 INFO  WaitHelper:139 - waiting for :[[ChromeDriver: chrome on MAC (c729e764331d9ecfe829a86fbf5ed96e)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for :200 seconds
+2019-08-26 21:40:34 INFO  WaitHelper:142 - element is visible now
+2019-08-26 21:40:34 INFO  TestBase:125 - capturing ui navigation screen...
+2019-08-26 21:40:35 INFO  NavigationMenu:55 - clickin on : WOMEN
+2019-08-26 21:40:37 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-26 21:40:37 INFO  WaitHelper:139 - waiting for :[[ChromeDriver: chrome on MAC (c729e764331d9ecfe829a86fbf5ed96e)] -> xpath: //*[@id='layered_block_left']/p] for :200 seconds
+2019-08-26 21:40:37 INFO  WaitHelper:142 - element is visible now
+2019-08-26 21:40:37 INFO  TestBase:125 - capturing ui navigation screen...
+2019-08-26 21:40:38 INFO  DropDownHelper:23 - Dropdown helper has been initiated.
+2019-08-26 21:40:38 INFO  DropDownHelper:75 - Selecting Price: Lowest first from dropdown.
+2019-08-26 21:40:38 INFO  DropDownHelper:78 - Price: Lowest first has been selected.
+2019-08-26 21:40:46 INFO  ProductCategoryPage:165 - 16.51
+2019-08-26 21:40:46 INFO  ProductCategoryPage:165 - 27.00
+2019-08-26 21:40:46 INFO  ProductCategoryPage:165 - 26.00
+2019-08-26 21:40:46 INFO  ProductCategoryPage:165 - 50.99
+2019-08-26 21:40:46 INFO  ProductCategoryPage:165 - 28.98
+2019-08-26 21:40:46 INFO  ProductCategoryPage:165 - 30.50
+2019-08-26 21:40:46 INFO  ProductCategoryPage:165 - 16.40
+2019-08-26 21:40:46 INFO  ProductCategoryPage:149 - obj.get(i)..16
+2019-08-26 21:40:46 INFO  ProductCategoryPage:150 - obj.get(i+1)..27
+2019-08-26 21:40:46 INFO  ProductCategoryPage:152 - price filter is not working
+2019-08-26 21:40:47 INFO  TestBase:202 - **************validateLowestPriceFinished***************
