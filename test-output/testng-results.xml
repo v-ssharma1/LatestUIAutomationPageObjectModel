@@ -6,7 +6,11 @@
     </line>
     <line>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <![CDATA[<a href='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_45961_26_08_2019_08_57_30.png'> <img src='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_45961_26_08_2019_08_57_30.png' height='100' width='100'/> </a>]]>
+=======
+      <![CDATA[<a href='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_69622_26_08_2019_08_27_08.png'> <img src='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_69622_26_08_2019_08_27_08.png' height='100' width='100'/> </a>]]>
+>>>>>>> df56135e3e3980d496dbe1e5490751ce426d26a7
 =======
       <![CDATA[<a href='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_69622_26_08_2019_08_27_08.png'> <img src='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_69622_26_08_2019_08_27_08.png' height='100' width='100'/> </a>]]>
 >>>>>>> df56135e3e3980d496dbe1e5490751ce426d26a7
@@ -16,7 +20,11 @@
     </line>
     <line>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <![CDATA[<a href='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_50853_26_08_2019_08_57_30.png'> <img src='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_50853_26_08_2019_08_57_30.png' height='100' width='100'/> </a>]]>
+=======
+      <![CDATA[<a href='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_96712_26_08_2019_08_27_08.png'> <img src='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_96712_26_08_2019_08_27_08.png' height='100' width='100'/> </a>]]>
+>>>>>>> df56135e3e3980d496dbe1e5490751ce426d26a7
 =======
       <![CDATA[<a href='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_96712_26_08_2019_08_27_08.png'> <img src='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_96712_26_08_2019_08_27_08.png' height='100' width='100'/> </a>]]>
 >>>>>>> df56135e3e3980d496dbe1e5490751ce426d26a7
@@ -25,6 +33,7 @@
       <![CDATA[captureScreen method called]]>
     </line>
     <line>
+<<<<<<< HEAD
 <<<<<<< HEAD
       <![CDATA[<a href='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/validateLowestPrice_26526_26_08_2019_08_57_30.png'> <img src='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/validateLowestPrice_26526_26_08_2019_08_57_30.png' height='100' width='100'/> </a>]]>
     </line>
@@ -44,6 +53,8 @@
         </test-method> <!-- beforeTest -->
         <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.uiAutomationRetailSite.Expedia.GCO.TestScripts.DecendingSortedPrice.DecendingSortedPrice@44a3ec6b]" name="beforeMethod" is-config="true" duration-ms="9" started-at="2019-08-27T01:57:26Z" finished-at="2019-08-27T01:57:26Z">
 =======
+=======
+>>>>>>> df56135e3e3980d496dbe1e5490751ce426d26a7
       <![CDATA[<a href='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/validateLowestPrice_87025_26_08_2019_08_27_08.png'> <img src='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/validateLowestPrice_87025_26_08_2019_08_27_08.png' height='100' width='100'/> </a>]]>
     </line>
   </reporter-output>
@@ -61,6 +72,9 @@
           </reporter-output>
         </test-method> <!-- beforeTest -->
         <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.uiAutomationRetailSite.Expedia.GCO.TestScripts.DecendingSortedPrice.DecendingSortedPrice@44a3ec6b]" name="beforeMethod" is-config="true" duration-ms="26" started-at="2019-08-27T01:27:02Z" finished-at="2019-08-27T01:27:03Z">
+<<<<<<< HEAD
+>>>>>>> df56135e3e3980d496dbe1e5490751ce426d26a7
+=======
 >>>>>>> df56135e3e3980d496dbe1e5490751ce426d26a7
           <params>
             <param index="0">
@@ -72,6 +86,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
+<<<<<<< HEAD
 <<<<<<< HEAD
         <test-method status="FAIL" signature="validateLowestPrice()[pri:0, instance:com.uiAutomationRetailSite.Expedia.GCO.TestScripts.DecendingSortedPrice.DecendingSortedPrice@44a3ec6b]" name="validateLowestPrice" duration-ms="15124" started-at="2019-08-27T01:57:26Z" description="Check the product of lowets price." finished-at="2019-08-27T01:57:41Z">
           <exception class="java.lang.AssertionError">
@@ -88,6 +103,8 @@ at com.uiAutomationRetailSite.Expedia.GCO.Helper.Assertion.AssertionHelper.Fail(
 at com.uiAutomationRetailSite.Expedia.GCO.Helper.Assertion.AssertionHelper.updateTestStatus(AssertionHelper.java:99)
 at com.uiAutomationRetailSite.Expedia.GCO.TestScripts.DecendingSortedPrice.DecendingSortedPrice.validateLowestPrice(DecendingSortedPrice.java:39)
 =======
+=======
+>>>>>>> df56135e3e3980d496dbe1e5490751ce426d26a7
         <test-method status="FAIL" signature="validateLowestPrice()[pri:0, instance:com.uiAutomationRetailSite.Expedia.GCO.TestScripts.DecendingSortedPrice.DecendingSortedPrice@44a3ec6b]" name="validateLowestPrice" duration-ms="16182" started-at="2019-08-27T01:27:03Z" description="Check the product of lowets price." finished-at="2019-08-27T01:27:19Z">
           <exception class="java.lang.AssertionError">
             <message>
@@ -99,6 +116,9 @@ at org.testng.Assert.fail(Assert.java:96)
 at org.testng.Assert.failNotEquals(Assert.java:776)
 at org.testng.Assert.assertTrue(Assert.java:44)
 at com.uiAutomationRetailSite.Expedia.GCO.TestScripts.DecendingSortedPrice.DecendingSortedPrice.validateLowestPrice(DecendingSortedPrice.java:52)
+<<<<<<< HEAD
+>>>>>>> df56135e3e3980d496dbe1e5490751ce426d26a7
+=======
 >>>>>>> df56135e3e3980d496dbe1e5490751ce426d26a7
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
@@ -134,7 +154,11 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
             </line>
             <line>
 <<<<<<< HEAD
+<<<<<<< HEAD
               <![CDATA[<a href='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_45961_26_08_2019_08_57_30.png'> <img src='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_45961_26_08_2019_08_57_30.png' height='100' width='100'/> </a>]]>
+=======
+              <![CDATA[<a href='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_69622_26_08_2019_08_27_08.png'> <img src='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_69622_26_08_2019_08_27_08.png' height='100' width='100'/> </a>]]>
+>>>>>>> df56135e3e3980d496dbe1e5490751ce426d26a7
 =======
               <![CDATA[<a href='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_69622_26_08_2019_08_27_08.png'> <img src='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_69622_26_08_2019_08_27_08.png' height='100' width='100'/> </a>]]>
 >>>>>>> df56135e3e3980d496dbe1e5490751ce426d26a7
@@ -144,17 +168,23 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
             </line>
             <line>
 <<<<<<< HEAD
+<<<<<<< HEAD
               <![CDATA[<a href='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_50853_26_08_2019_08_57_30.png'> <img src='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_50853_26_08_2019_08_57_30.png' height='100' width='100'/> </a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- validateLowestPrice -->
         <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.uiAutomationRetailSite.Expedia.GCO.TestScripts.DecendingSortedPrice.DecendingSortedPrice@44a3ec6b]" name="afterMethod" is-config="true" duration-ms="877" started-at="2019-08-27T01:57:41Z" finished-at="2019-08-27T01:57:42Z">
 =======
+=======
+>>>>>>> df56135e3e3980d496dbe1e5490751ce426d26a7
               <![CDATA[<a href='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_96712_26_08_2019_08_27_08.png'> <img src='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_96712_26_08_2019_08_27_08.png' height='100' width='100'/> </a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- validateLowestPrice -->
         <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.uiAutomationRetailSite.Expedia.GCO.TestScripts.DecendingSortedPrice.DecendingSortedPrice@44a3ec6b]" name="afterMethod" is-config="true" duration-ms="850" started-at="2019-08-27T01:27:19Z" finished-at="2019-08-27T01:27:20Z">
+<<<<<<< HEAD
+>>>>>>> df56135e3e3980d496dbe1e5490751ce426d26a7
+=======
 >>>>>>> df56135e3e3980d496dbe1e5490751ce426d26a7
           <params>
             <param index="0">
@@ -169,17 +199,23 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
             </line>
             <line>
 <<<<<<< HEAD
+<<<<<<< HEAD
               <![CDATA[<a href='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/validateLowestPrice_26526_26_08_2019_08_57_30.png'> <img src='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/validateLowestPrice_26526_26_08_2019_08_57_30.png' height='100' width='100'/> </a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- afterMethod -->
         <test-method status="PASS" signature="afterTest()[pri:0, instance:com.uiAutomationRetailSite.Expedia.GCO.TestScripts.DecendingSortedPrice.DecendingSortedPrice@44a3ec6b]" name="afterTest" is-config="true" duration-ms="124" started-at="2019-08-27T01:57:42Z" finished-at="2019-08-27T01:57:42Z">
 =======
+=======
+>>>>>>> df56135e3e3980d496dbe1e5490751ce426d26a7
               <![CDATA[<a href='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/validateLowestPrice_87025_26_08_2019_08_27_08.png'> <img src='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/validateLowestPrice_87025_26_08_2019_08_27_08.png' height='100' width='100'/> </a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- afterMethod -->
         <test-method status="PASS" signature="afterTest()[pri:0, instance:com.uiAutomationRetailSite.Expedia.GCO.TestScripts.DecendingSortedPrice.DecendingSortedPrice@44a3ec6b]" name="afterTest" is-config="true" duration-ms="132" started-at="2019-08-27T01:27:20Z" finished-at="2019-08-27T01:27:20Z">
+<<<<<<< HEAD
+>>>>>>> df56135e3e3980d496dbe1e5490751ce426d26a7
+=======
 >>>>>>> df56135e3e3980d496dbe1e5490751ce426d26a7
           <reporter-output>
           </reporter-output>

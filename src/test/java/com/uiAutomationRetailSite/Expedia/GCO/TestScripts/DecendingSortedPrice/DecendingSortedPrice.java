@@ -5,12 +5,15 @@ import java.util.Iterator;
 import java.util.List;
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
 import com.uiAutomationRetailSite.Expedia.GCO.Helper.Assertion.AssertionHelper;
 import com.uiAutomationRetailSite.Expedia.GCO.Helper.BrowserConfiguration.config.ObjectReader;
 =======
+=======
+>>>>>>> df56135e3e3980d496dbe1e5490751ce426d26a7
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
@@ -18,6 +21,9 @@ import org.testng.annotations.Test;
 
 import com.uiAutomationRetailSite.Expedia.GCO.Helper.BrowserConfiguration.config.ObjectReader;
 import com.uiAutomationRetailSite.Expedia.GCO.Helper.Logger.LoggerHelper;
+<<<<<<< HEAD
+>>>>>>> df56135e3e3980d496dbe1e5490751ce426d26a7
+=======
 >>>>>>> df56135e3e3980d496dbe1e5490751ce426d26a7
 import com.uiAutomationRetailSite.Expedia.GCO.PageObject.NavigationMenu.NavigationMenu;
 import com.uiAutomationRetailSite.Expedia.GCO.PageObject.ProductCategoryPages.ProductCategoryPage;
@@ -25,6 +31,10 @@ import com.uiAutomationRetailSite.Expedia.GCO.TestBase.TestBase;
 
 public class DecendingSortedPrice extends TestBase {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+	private final static Logger log = LoggerHelper.getLogger(DecendingSortedPrice.class);
+>>>>>>> df56135e3e3980d496dbe1e5490751ce426d26a7
 =======
 	private final static Logger log = LoggerHelper.getLogger(DecendingSortedPrice.class);
 >>>>>>> df56135e3e3980d496dbe1e5490751ce426d26a7
@@ -42,6 +52,7 @@ public class DecendingSortedPrice extends TestBase {
 		// get price of all products
 		List<WebElement> allPrice = productCategoryPage.getAllProductsPrice();
 <<<<<<< HEAD
+<<<<<<< HEAD
 		// ArrayList<Integer> array = new ArrayList<Integer>();
 		Iterator<WebElement> itr = allPrice.iterator();
 
@@ -50,6 +61,8 @@ public class DecendingSortedPrice extends TestBase {
 		AssertionHelper.updateTestStatus(status);
 
 =======
+=======
+>>>>>>> df56135e3e3980d496dbe1e5490751ce426d26a7
 		ArrayList<Integer> array = new ArrayList<Integer>();
 		Iterator<WebElement> itr = allPrice.iterator();
 		while (itr.hasNext()) {
@@ -72,6 +85,9 @@ public class DecendingSortedPrice extends TestBase {
 				Assert.assertTrue(false, "Price filter is working fine.");
 			}
 		}
+<<<<<<< HEAD
+>>>>>>> df56135e3e3980d496dbe1e5490751ce426d26a7
+=======
 >>>>>>> df56135e3e3980d496dbe1e5490751ce426d26a7
 	}
 }
