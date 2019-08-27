@@ -1968,6 +1968,7 @@ Driver info: driver.version: unknown
 2019-08-26 20:27:19 INFO  DecendingSortedPrice:49 - obj.get(i):-16
 2019-08-26 20:27:19 INFO  DecendingSortedPrice:50 - obj.get(i+1):-27
 2019-08-26 20:27:19 INFO  TestBase:202 - **************validateLowestPriceFinished***************
+<<<<<<< HEAD
 2019-08-26 20:57:24 INFO  ExtentManager:37 - extent returned
 2019-08-26 20:57:25 INFO  TestBase:81 - Intialized the driver: 1550228904
 2019-08-26 20:57:25 INFO  WaitHelper:30 - Wait helper object is created..
@@ -1999,3 +2000,5 @@ Driver info: driver.version: unknown
 2019-08-26 20:57:41 INFO  ProductCategoryPage:150 - obj.get(i+1)..27
 2019-08-26 20:57:41 INFO  ProductCategoryPage:152 - price filter is not working
 2019-08-26 20:57:41 INFO  TestBase:202 - **************validateLowestPriceFinished***************
+=======
+>>>>>>> df56135e3e3980d496dbe1e5490751ce426d26a7
