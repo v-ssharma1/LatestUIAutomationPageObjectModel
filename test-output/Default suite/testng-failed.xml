@@ -3,16 +3,16 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.uiAutomationRetailSite.Expedia.GCO.TestScripts.DecendingSortedPrice.DecendingSortedPrice">
+      <class name="com.uiAutomationRetailSite.Expedia.GCO.TestScripts.LoginTest.LoginTest">
         <methods>
           <include name="afterTest"/>
-          <include name="validateLowestPrice"/>
           <include name="beforeTest"/>
           <include name="afterMethod"/>
           <include name="beforeSuite"/>
           <include name="beforeMethod"/>
+          <include name="validateLoginFunctinality"/>
         </methods>
-      </class> <!-- com.uiAutomationRetailSite.Expedia.GCO.TestScripts.DecendingSortedPrice.DecendingSortedPrice -->
+      </class> <!-- com.uiAutomationRetailSite.Expedia.GCO.TestScripts.LoginTest.LoginTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

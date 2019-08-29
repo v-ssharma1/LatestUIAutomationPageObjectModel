@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>Surefire test</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>2/0/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>2/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Sat Aug 24 13:04:19 CDT 2019</td>
+<td>Started on:</td><td>Tue Aug 27 20:52:40 CDT 2019</td>
 </tr>
-<tr><td>Total time:</td><td>11 seconds (11873 ms)</td>
+<tr><td>Total time:</td><td>59 seconds (59860 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -67,6 +67,190 @@ function toggleAllBoxes() {
 </tr>
 </table><p/>
 <small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED CONFIGURATIONS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.uiAutomationRetailSite.Expedia.GCO.TestScripts.RagistrationTest.RagistrationTest.afterMethod()'><b>afterMethod</b><br>Test class: com.uiAutomationRetailSite.Expedia.GCO.TestScripts.RagistrationTest.RagistrationTest<br>Parameters: [TestResult name=testRagitsration status=FAILURE method=RagistrationTest.testRagitsration()[pri:0, instance:com.uiAutomationRetailSite.Expedia.GCO.TestScripts.RagistrationTest.RagistrationTest@598067a5] output=captureScreen method called]<br/>
+<a href="#Output-69673470" onClick='toggleBox("Output-69673470", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-69673470" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-69673470">
+captureScreen method called<br/>
+</div>
+</td>
+<td><div><pre>org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=76.0.3809.100)
+  (Driver info: chromedriver=2.39.562713 (dd642283e958a93ebf6891600db055f1f1b4f3b2),platform=Mac OS X 10.14.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;Saurabhs-MacBook-Pro.local&apos;, ip: &apos;2601:249:8300:34f0:f9f0:4acf:d363:53f&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.14.6&apos;, java.version: &apos;1.8.0_65&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.39.562713 (dd642283e958a9..., userDataDir: /var/folders/4b/k0kz1pqs2b1...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 76.0.3809.100, webStorageEnabled: true}
+Session ID: 164194cc5e1f994cb469296587a1504b
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:295)
+	at com.uiAutomationRetailSite.Expedia.GCO.TestBase.TestBase.captureScreenShot(TestBase.java:99)
+	at com.uiAutomationRetailSite.Expedia.GCO.TestBase.TestBase.afterMethod(TestBase.java:193)
+... Removed 37 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace69673470", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace69673470'><pre>org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=76.0.3809.100)
+  (Driver info: chromedriver=2.39.562713 (dd642283e958a93ebf6891600db055f1f1b4f3b2),platform=Mac OS X 10.14.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;Saurabhs-MacBook-Pro.local&apos;, ip: &apos;2601:249:8300:34f0:f9f0:4acf:d363:53f&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.14.6&apos;, java.version: &apos;1.8.0_65&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.39.562713 (dd642283e958a9..., userDataDir: /var/folders/4b/k0kz1pqs2b1...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 76.0.3809.100, webStorageEnabled: true}
+Session ID: 164194cc5e1f994cb469296587a1504b
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:295)
+	at com.uiAutomationRetailSite.Expedia.GCO.TestBase.TestBase.captureScreenShot(TestBase.java:99)
+	at com.uiAutomationRetailSite.Expedia.GCO.TestBase.TestBase.afterMethod(TestBase.java:193)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:646)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:135)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:193)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:94)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:146)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:373)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:334)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:119)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:407)
+</pre></div></td>
+<td>0</td>
+<td>com.uiAutomationRetailSite.Expedia.GCO.TestScripts.RagistrationTest.RagistrationTest@598067a5</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.uiAutomationRetailSite.Expedia.GCO.TestScripts.RagistrationTest.RagistrationTest.testRagitsration()'><b>testRagitsration</b><br>Test class: com.uiAutomationRetailSite.Expedia.GCO.TestScripts.RagistrationTest.RagistrationTest<br>Test method: Test the Ragitsration page.<br/>
+<a href="#Output-1558079303" onClick='toggleBox("Output-1558079303", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1558079303" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1558079303">
+captureScreen method called<br/>
+<a href='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_56834_27_08_2019_08_52_47.png'> <img src='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_56834_27_08_2019_08_52_47.png' height='100' width='100'/> </a><br/>
+</div>
+</td>
+<td><div><pre>org.openqa.selenium.NoSuchElementException: Cannot locate an element using xpath=//*[@id=&apos;email_create&apos;]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;Saurabhs-MacBook-Pro.local&apos;, ip: &apos;2601:249:8300:34f0:f9f0:4acf:d363:53f&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.14.6&apos;, java.version: &apos;1.8.0_65&apos;
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:327)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy10.sendKeys(Unknown Source)
+	at com.uiAutomationRetailSite.Expedia.GCO.PageObject.LoginPages.LoginPage.enterRegistrationEmail(LoginPage.java:124)
+	at com.uiAutomationRetailSite.Expedia.GCO.PageObject.LoginPages.LoginPage.emailRagistartionForAccountCreation(LoginPage.java:141)
+	at com.uiAutomationRetailSite.Expedia.GCO.TestScripts.RagistrationTest.RagistrationTest.testRagitsration(RagistrationTest.java:29)
+... Removed 30 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1558079303", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1558079303'><pre>org.openqa.selenium.NoSuchElementException: Cannot locate an element using xpath=//*[@id=&apos;email_create&apos;]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;Saurabhs-MacBook-Pro.local&apos;, ip: &apos;2601:249:8300:34f0:f9f0:4acf:d363:53f&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.14.6&apos;, java.version: &apos;1.8.0_65&apos;
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:327)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy10.sendKeys(Unknown Source)
+	at com.uiAutomationRetailSite.Expedia.GCO.PageObject.LoginPages.LoginPage.enterRegistrationEmail(LoginPage.java:124)
+	at com.uiAutomationRetailSite.Expedia.GCO.PageObject.LoginPages.LoginPage.emailRagistartionForAccountCreation(LoginPage.java:141)
+	at com.uiAutomationRetailSite.Expedia.GCO.TestScripts.RagistrationTest.RagistrationTest.testRagitsration(RagistrationTest.java:29)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:135)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:193)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:94)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:146)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:373)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:334)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:119)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:407)
+</pre></div></td>
+<td>45</td>
+<td>com.uiAutomationRetailSite.Expedia.GCO.TestScripts.RagistrationTest.RagistrationTest@598067a5</td></tr>
+</table><p>
 <table width='100%' border='1' class='invocation-passed'>
 <tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
 <tr><td><b>Test method</b></td>
@@ -76,32 +260,32 @@ function toggleAllBoxes() {
 </tr>
 <tr>
 <td title='com.uiAutomationRetailSite.Expedia.GCO.TestScripts.TestScreenshot.testScreen()'><b>testScreen</b><br>Test class: com.uiAutomationRetailSite.Expedia.GCO.TestScripts.TestScreenshot<br/>
-<a href="#Output-1651162064" onClick='toggleBox("Output-1651162064", this, "Show output", "Hide output");'>Show output</a>
+<a href="#Output-530486389" onClick='toggleBox("Output-530486389", this, "Show output", "Hide output");'>Show output</a>
 
-<a href="#Output-1651162064" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-1651162064">
+<a href="#Output-530486389" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-530486389">
 captureScreen method called<br/>
-<a href='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_44931_24_08_2019_01_04_23.png'> <img src='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_44931_24_08_2019_01_04_23.png' height='100' width='100'/> </a><br/>
+<a href='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_90714_27_08_2019_08_52_47.png'> <img src='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_90714_27_08_2019_08_52_47.png' height='100' width='100'/> </a><br/>
 </div>
 </td>
 <td></td>
-<td>2</td>
-<td>com.uiAutomationRetailSite.Expedia.GCO.TestScripts.TestScreenshot@3abbfa04</td></tr>
+<td>4</td>
+<td>com.uiAutomationRetailSite.Expedia.GCO.TestScripts.TestScreenshot@57fffcd7</td></tr>
 <tr>
 <td title='com.uiAutomationRetailSite.Expedia.GCO.TestScripts.LoginTest.LoginTest.validateLoginFunctinality()'><b>validateLoginFunctinality</b><br>Test class: com.uiAutomationRetailSite.Expedia.GCO.TestScripts.LoginTest.LoginTest<br>Test method: Login Test with valid credentails.<br/>
-<a href="#Output-1266265220" onClick='toggleBox("Output-1266265220", this, "Show output", "Hide output");'>Show output</a>
+<a href="#Output-1839962989" onClick='toggleBox("Output-1839962989", this, "Show output", "Hide output");'>Show output</a>
 
-<a href="#Output-1266265220" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-1266265220">
+<a href="#Output-1839962989" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1839962989">
 captureScreen method called<br/>
-<a href='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_12773_24_08_2019_01_04_23.png'> <img src='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_12773_24_08_2019_01_04_23.png' height='100' width='100'/> </a><br/>
+<a href='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_64854_27_08_2019_08_52_47.png'> <img src='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_64854_27_08_2019_08_52_47.png' height='100' width='100'/> </a><br/>
 captureScreen method called<br/>
-<a href='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_86270_24_08_2019_01_04_23.png'> <img src='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_86270_24_08_2019_01_04_23.png' height='100' width='100'/> </a><br/>
+<a href='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_67149_27_08_2019_08_52_47.png'> <img src='/Users/saurabhsharma/Automation_Workspace/UIAutomation_Aug2019/uiAutomationRetailSite/src/test/TestResults/com/uiAutomationRetailSite/Expedia/GCO/ScreenShots/Blank_67149_27_08_2019_08_52_47.png' height='100' width='100'/> </a><br/>
 </div>
 </td>
 <td></td>
-<td>6</td>
-<td>com.uiAutomationRetailSite.Expedia.GCO.TestScripts.LoginTest.LoginTest@57fffcd7</td></tr>
+<td>7</td>
+<td>com.uiAutomationRetailSite.Expedia.GCO.TestScripts.LoginTest.LoginTest@31ef45e3</td></tr>
 </table><p>
 </body>
 </html>

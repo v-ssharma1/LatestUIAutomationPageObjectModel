@@ -2036,3 +2036,221 @@ Driver info: driver.version: unknown
 2019-08-26 21:40:46 INFO  ProductCategoryPage:150 - obj.get(i+1)..27
 2019-08-26 21:40:46 INFO  ProductCategoryPage:152 - price filter is not working
 2019-08-26 21:40:47 INFO  TestBase:202 - **************validateLowestPriceFinished***************
+2019-08-27 00:06:47 INFO  ExtentManager:37 - extent returned
+2019-08-27 00:06:49 INFO  TestBase:82 - Intialized the driver: 1550228904
+2019-08-27 00:06:49 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-27 00:06:49 INFO  WaitHelper:47 - Implicit wait for element to be loaded has been set to: 60 seconds
+2019-08-27 00:06:49 INFO  WaitHelper:37 - Waiting for page to load for: SECONDS seconds
+2019-08-27 00:06:49 INFO  WaitHelper:38 - Implicit wait has been set to: 60
+2019-08-27 00:06:49 INFO  WaitHelper:40 - Page is loaded.
+2019-08-27 00:06:49 INFO  TestBase:181 - **************validateLoginFunctinalityStarted***************
+2019-08-27 00:06:52 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-27 00:06:52 INFO  WaitHelper:139 - waiting for :[[ChromeDriver: chrome on MAC (08b556a98ef19f279b2c8163dfe4682c)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :200 seconds
+2019-08-27 00:06:52 INFO  WaitHelper:142 - element is visible now
+2019-08-27 00:06:52 INFO  TestBase:126 - capturing ui navigation screen...
+2019-08-27 00:06:52 INFO  JavaScriptHelper:20 - Java script helper has been initiated.
+2019-08-27 00:06:52 INFO  JavaScriptHelper:111 - Zooming in the window by 40 percent
+2019-08-27 00:06:53 INFO  JavaScriptHelper:20 - Java script helper has been initiated.
+2019-08-27 00:06:53 INFO  JavaScriptHelper:119 - Zooming out the window by 100 percent
+2019-08-27 00:06:53 INFO  LoginPage:82 - clicked on sign in link...
+2019-08-27 00:06:53 INFO  TestBase:203 - **************validateLoginFunctinalityFinished***************
+2019-08-27 00:07:58 INFO  ExtentManager:37 - extent returned
+2019-08-27 00:08:00 INFO  TestBase:82 - Intialized the driver: 1550228904
+2019-08-27 00:08:00 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-27 00:08:00 INFO  WaitHelper:47 - Implicit wait for element to be loaded has been set to: 60 seconds
+2019-08-27 00:08:00 INFO  WaitHelper:37 - Waiting for page to load for: SECONDS seconds
+2019-08-27 00:08:00 INFO  WaitHelper:38 - Implicit wait has been set to: 60
+2019-08-27 00:08:00 INFO  WaitHelper:40 - Page is loaded.
+2019-08-27 00:08:00 INFO  TestBase:181 - **************validateLoginFunctinalityStarted***************
+2019-08-27 00:08:03 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-27 00:08:03 INFO  WaitHelper:139 - waiting for :[[ChromeDriver: chrome on MAC (1b4e065fe84f735167809431f0e57838)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :200 seconds
+2019-08-27 00:08:03 INFO  WaitHelper:142 - element is visible now
+2019-08-27 00:08:03 INFO  TestBase:126 - capturing ui navigation screen...
+2019-08-27 00:08:03 INFO  JavaScriptHelper:20 - Java script helper has been initiated.
+2019-08-27 00:08:03 INFO  JavaScriptHelper:111 - Zooming in the window by 40 percent
+2019-08-27 00:08:04 INFO  JavaScriptHelper:20 - Java script helper has been initiated.
+2019-08-27 00:08:04 INFO  JavaScriptHelper:111 - Zooming in the window by 100 percent
+2019-08-27 00:08:04 INFO  LoginPage:82 - clicked on sign in link...
+2019-08-27 00:08:04 INFO  TestBase:203 - **************validateLoginFunctinalityFinished***************
+2019-08-27 00:08:43 INFO  ExtentManager:37 - extent returned
+2019-08-27 00:08:45 INFO  TestBase:82 - Intialized the driver: 2042917213
+2019-08-27 00:08:45 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-27 00:08:45 INFO  WaitHelper:47 - Implicit wait for element to be loaded has been set to: 60 seconds
+2019-08-27 00:08:45 INFO  WaitHelper:37 - Waiting for page to load for: SECONDS seconds
+2019-08-27 00:08:45 INFO  WaitHelper:38 - Implicit wait has been set to: 60
+2019-08-27 00:08:45 INFO  WaitHelper:40 - Page is loaded.
+2019-08-27 00:08:45 INFO  TestBase:181 - **************validateLoginFunctinalityStarted***************
+2019-08-27 00:08:48 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-27 00:08:48 INFO  WaitHelper:139 - waiting for :[[ChromeDriver: chrome on MAC (0b3ecb7a409620d400954e9221b6914a)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :200 seconds
+2019-08-27 00:08:48 INFO  WaitHelper:142 - element is visible now
+2019-08-27 00:08:48 INFO  TestBase:126 - capturing ui navigation screen...
+2019-08-27 00:10:56 INFO  JavaScriptHelper:20 - Java script helper has been initiated.
+2019-08-27 00:11:01 INFO  JavaScriptHelper:111 - Zooming in the window by 40 percent
+2019-08-27 00:18:25 INFO  ExtentManager:37 - extent returned
+2019-08-27 00:18:25 INFO  ExtentListener:33 - LoginTestClass started.
+2019-08-27 00:18:27 INFO  TestBase:81 - Intialized the driver: 239142606
+2019-08-27 00:18:27 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-27 00:18:27 INFO  WaitHelper:47 - Implicit wait for element to be loaded has been set to: 60 seconds
+2019-08-27 00:18:27 INFO  WaitHelper:37 - Waiting for page to load for: SECONDS seconds
+2019-08-27 00:18:27 INFO  WaitHelper:38 - Implicit wait has been set to: 60
+2019-08-27 00:18:27 INFO  WaitHelper:40 - Page is loaded.
+2019-08-27 00:18:27 INFO  TestBase:180 - **************validateLoginFunctinalityStarted***************
+2019-08-27 00:18:27 INFO  ExtentListener:64 - validateLoginFunctinalityTest started.
+2019-08-27 00:18:30 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-27 00:18:30 INFO  WaitHelper:139 - waiting for :[[ChromeDriver: chrome on MAC (a0da64b429251616e0a2a25ca27f002d)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :200 seconds
+2019-08-27 00:18:30 INFO  WaitHelper:142 - element is visible now
+2019-08-27 00:18:30 INFO  TestBase:125 - capturing ui navigation screen...
+2019-08-27 00:18:32 INFO  LoginPage:82 - clicked on sign in link...
+2019-08-27 00:18:33 INFO  LoginPage:89 - entering email address....9898@gmail.com
+2019-08-27 00:18:33 INFO  LoginPage:96 - entering password....Test123
+2019-08-27 00:18:33 INFO  LoginPage:103 - clicking on submit button...
+2019-08-27 00:18:33 INFO  JavaScriptHelper:20 - Java script helper has been initiated.
+2019-08-27 00:18:33 INFO  JavaScriptHelper:79 - Scrolling down vertically down.
+2019-08-27 00:18:35 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-27 00:18:35 INFO  WaitHelper:139 - waiting for :[[ChromeDriver: chrome on MAC (a0da64b429251616e0a2a25ca27f002d)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for :200 seconds
+2019-08-27 00:18:35 INFO  WaitHelper:142 - element is visible now
+2019-08-27 00:18:35 INFO  TestBase:125 - capturing ui navigation screen...
+2019-08-27 00:18:35 INFO  VerificatinHelper:27 - Element is displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2019-08-27 00:18:35 INFO  LoginTest:22 - Login Test Successfully executed.
+2019-08-27 00:18:35 INFO  ExtentListener:73 - validateLoginFunctinalityTest passed.
+2019-08-27 00:18:35 INFO  TestBase:202 - **************validateLoginFunctinalityFinished***************
+2019-08-27 00:18:41 INFO  ExtentListener:23 - LoginTestTest Finished.
+2019-08-27 00:18:41 INFO  ExtentListener:33 - RagistrationTestClass started.
+2019-08-27 00:18:42 INFO  TestBase:81 - Intialized the driver: 499135420
+2019-08-27 00:18:42 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-27 00:18:42 INFO  WaitHelper:47 - Implicit wait for element to be loaded has been set to: 60 seconds
+2019-08-27 00:18:42 INFO  WaitHelper:37 - Waiting for page to load for: SECONDS seconds
+2019-08-27 00:18:42 INFO  WaitHelper:38 - Implicit wait has been set to: 60
+2019-08-27 00:18:42 INFO  WaitHelper:40 - Page is loaded.
+2019-08-27 00:18:42 INFO  TestBase:180 - **************testRagitsrationStarted***************
+2019-08-27 00:18:42 INFO  ExtentListener:64 - testRagitsrationTest started.
+2019-08-27 00:18:45 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-27 00:18:45 INFO  WaitHelper:139 - waiting for :[[ChromeDriver: chrome on MAC (28a09cd7a249b035cda1e2486a2b21e8)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :200 seconds
+2019-08-27 00:18:45 INFO  WaitHelper:142 - element is visible now
+2019-08-27 00:18:45 INFO  TestBase:125 - capturing ui navigation screen...
+2019-08-27 00:18:47 INFO  LoginPage:82 - clicked on sign in link...
+2019-08-27 00:18:48 INFO  LoginPage:123 - entering registration email..1566883128866@gmail.com
+2019-08-27 00:18:49 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-27 00:18:50 INFO  WaitHelper:139 - waiting for :[[ChromeDriver: chrome on MAC (28a09cd7a249b035cda1e2486a2b21e8)] -> xpath: //*[@id='id_gender1']] for :200 seconds
+2019-08-27 00:18:50 INFO  WaitHelper:142 - element is visible now
+2019-08-27 00:18:50 INFO  TestBase:125 - capturing ui navigation screen...
+2019-08-27 00:18:50 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-27 00:18:50 INFO  WaitHelper:139 - waiting for :[[ChromeDriver: chrome on MAC (28a09cd7a249b035cda1e2486a2b21e8)] -> xpath: //*[@id='id_gender1']] for :200 seconds
+2019-08-27 00:18:50 INFO  WaitHelper:142 - element is visible now
+2019-08-27 00:18:50 INFO  TestBase:125 - capturing ui navigation screen...
+2019-08-27 00:18:51 INFO  RagistrationPage:100 - selecting mr checkbox..
+2019-08-27 00:18:51 INFO  RagistrationPage:112 - entering firstName..firstName
+2019-08-27 00:18:51 INFO  RagistrationPage:118 - entering lastname..lastname
+2019-08-27 00:18:51 INFO  RagistrationPage:130 - entering password..password
+2019-08-27 00:18:51 INFO  RagistrationPage:199 - entering address..address
+2019-08-27 00:18:52 INFO  RagistrationPage:181 - entering yourAddressFirstName..Saurabh
+2019-08-27 00:18:52 INFO  RagistrationPage:187 - entering yourAddressLastName..Sharma
+2019-08-27 00:18:52 INFO  RagistrationPage:193 - entering yourAddressCompany..CTS
+2019-08-27 00:18:52 INFO  RagistrationPage:211 - entering yourAddressCity..Chicago
+2019-08-27 00:18:52 INFO  RagistrationPage:217 - entering yourAddressState..Illinois
+2019-08-27 00:18:52 INFO  RagistrationPage:223 - entering yourAddressPostCode..60660
+2019-08-27 00:18:52 INFO  RagistrationPage:241 - entering mobilePhone..3129753902
+2019-08-27 00:18:52 INFO  RagistrationPage:247 - entering addressAlias..My Home
+2019-08-27 00:18:52 INFO  RagistrationPage:253 - clicked on registration..[[ChromeDriver: chrome on MAC (28a09cd7a249b035cda1e2486a2b21e8)] -> xpath: //*[@id='submitAccount']]
+2019-08-27 00:18:53 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-27 00:18:53 INFO  WaitHelper:139 - waiting for :[[ChromeDriver: chrome on MAC (28a09cd7a249b035cda1e2486a2b21e8)] -> xpath: //span[contains(text(),'Order history and details')]/parent::a] for :200 seconds
+2019-08-27 00:18:53 INFO  WaitHelper:142 - element is visible now
+2019-08-27 00:18:53 INFO  TestBase:125 - capturing ui navigation screen...
+2019-08-27 00:18:54 INFO  VerificatinHelper:27 - Element is displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2019-08-27 00:18:54 INFO  RagistrationTest:56 - Ragistration Test Successfully executed.
+2019-08-27 00:18:54 INFO  ExtentListener:73 - testRagitsrationTest passed.
+2019-08-27 00:18:54 INFO  TestBase:202 - **************testRagitsrationFinished***************
+2019-08-27 00:18:59 INFO  ExtentListener:23 - RagistrationTestTest Finished.
+2019-08-27 00:18:59 INFO  ExtentListener:33 - DecendingSortedPriceClass started.
+2019-08-27 00:19:00 INFO  TestBase:81 - Intialized the driver: 1762854687
+2019-08-27 00:19:00 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-27 00:19:00 INFO  WaitHelper:47 - Implicit wait for element to be loaded has been set to: 60 seconds
+2019-08-27 00:19:00 INFO  WaitHelper:37 - Waiting for page to load for: SECONDS seconds
+2019-08-27 00:19:00 INFO  WaitHelper:38 - Implicit wait has been set to: 60
+2019-08-27 00:19:00 INFO  WaitHelper:40 - Page is loaded.
+2019-08-27 00:19:00 INFO  TestBase:180 - **************validateLowestPriceStarted***************
+2019-08-27 00:19:00 INFO  ExtentListener:64 - validateLowestPriceTest started.
+2019-08-27 00:19:03 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-27 00:19:03 INFO  WaitHelper:139 - waiting for :[[ChromeDriver: chrome on MAC (18a6773ff70741af873467a32f1a9c44)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for :200 seconds
+2019-08-27 00:19:03 INFO  WaitHelper:142 - element is visible now
+2019-08-27 00:19:03 INFO  TestBase:125 - capturing ui navigation screen...
+2019-08-27 00:19:04 INFO  NavigationMenu:55 - clickin on : WOMEN
+2019-08-27 00:19:06 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-27 00:19:06 INFO  WaitHelper:139 - waiting for :[[ChromeDriver: chrome on MAC (18a6773ff70741af873467a32f1a9c44)] -> xpath: //*[@id='layered_block_left']/p] for :200 seconds
+2019-08-27 00:19:06 INFO  WaitHelper:142 - element is visible now
+2019-08-27 00:19:06 INFO  TestBase:125 - capturing ui navigation screen...
+2019-08-27 00:19:06 INFO  DropDownHelper:23 - Dropdown helper has been initiated.
+2019-08-27 00:19:06 INFO  DropDownHelper:75 - Selecting Price: Lowest first from dropdown.
+2019-08-27 00:19:06 INFO  DropDownHelper:78 - Price: Lowest first has been selected.
+2019-08-27 00:19:14 INFO  ProductCategoryPage:165 - 16.51
+2019-08-27 00:19:14 INFO  ProductCategoryPage:165 - 27.00
+2019-08-27 00:19:14 INFO  ProductCategoryPage:165 - 26.00
+2019-08-27 00:19:14 INFO  ProductCategoryPage:165 - 50.99
+2019-08-27 00:19:14 INFO  ProductCategoryPage:165 - 28.98
+2019-08-27 00:19:14 INFO  ProductCategoryPage:165 - 30.50
+2019-08-27 00:19:14 INFO  ProductCategoryPage:165 - 16.40
+2019-08-27 00:19:14 INFO  ProductCategoryPage:149 - obj.get(i)..16
+2019-08-27 00:19:14 INFO  ProductCategoryPage:150 - obj.get(i+1)..27
+2019-08-27 00:19:14 INFO  ProductCategoryPage:152 - price filter is not working
+2019-08-27 00:19:14 ERROR ExtentListener:47 - validateLowestPriceTest failed.java.lang.AssertionError: expected [true] but found [false]
+2019-08-27 00:19:15 INFO  TestBase:202 - **************validateLowestPriceFinished***************
+2019-08-27 00:19:20 INFO  ExtentListener:23 - DecendingSortedPriceTest Finished.
+2019-08-27 00:23:11 INFO  ExtentManager:37 - extent returned
+2019-08-27 00:23:13 INFO  TestBase:81 - Intialized the driver: 402405659
+2019-08-27 00:23:13 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-27 00:23:13 INFO  WaitHelper:47 - Implicit wait for element to be loaded has been set to: 60 seconds
+2019-08-27 00:23:13 INFO  WaitHelper:37 - Waiting for page to load for: SECONDS seconds
+2019-08-27 00:23:13 INFO  WaitHelper:38 - Implicit wait has been set to: 60
+2019-08-27 00:23:13 INFO  WaitHelper:40 - Page is loaded.
+2019-08-27 00:23:13 INFO  TestBase:180 - **************testScreenStarted***************
+2019-08-27 00:23:17 INFO  TestBase:125 - capturing ui navigation screen...
+2019-08-27 00:23:17 INFO  TestScreenshot:17 - TestScreenshot is passed.
+2019-08-27 00:23:17 INFO  TestBase:202 - **************testScreenFinished***************
+2019-08-27 00:23:18 INFO  TestBase:180 - **************validateLoginFunctinalityStarted***************
+2019-08-27 00:23:20 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-27 00:23:20 INFO  WaitHelper:139 - waiting for :[[ChromeDriver: chrome on MAC (0b99658be8af4a1018378f7ad5459c3e)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :200 seconds
+2019-08-27 00:23:21 INFO  WaitHelper:142 - element is visible now
+2019-08-27 00:23:21 INFO  TestBase:125 - capturing ui navigation screen...
+2019-08-27 00:23:22 INFO  LoginPage:82 - clicked on sign in link...
+2019-08-27 00:23:23 INFO  LoginPage:89 - entering email address....9898@gmail.com
+2019-08-27 00:23:24 INFO  LoginPage:96 - entering password....Test123
+2019-08-27 00:23:24 INFO  LoginPage:103 - clicking on submit button...
+2019-08-27 00:23:24 INFO  JavaScriptHelper:20 - Java script helper has been initiated.
+2019-08-27 00:23:24 INFO  JavaScriptHelper:79 - Scrolling down vertically down.
+2019-08-27 00:23:25 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-27 00:23:25 INFO  WaitHelper:139 - waiting for :[[ChromeDriver: chrome on MAC (0b99658be8af4a1018378f7ad5459c3e)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for :200 seconds
+2019-08-27 00:23:25 INFO  WaitHelper:142 - element is visible now
+2019-08-27 00:23:25 INFO  TestBase:125 - capturing ui navigation screen...
+2019-08-27 00:23:25 INFO  VerificatinHelper:27 - Element is displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2019-08-27 00:23:25 INFO  LoginTest:22 - Login Test Successfully executed.
+2019-08-27 00:23:25 INFO  TestBase:202 - **************validateLoginFunctinalityFinished***************
+2019-08-27 00:23:25 INFO  TestBase:180 - **************testRagitsrationStarted***************
+2019-08-27 00:23:26 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-27 00:23:26 INFO  WaitHelper:139 - waiting for :[[ChromeDriver: chrome on MAC (0b99658be8af4a1018378f7ad5459c3e)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :200 seconds
+2019-08-27 00:23:26 INFO  WaitHelper:142 - element is visible now
+2019-08-27 00:23:26 INFO  TestBase:125 - capturing ui navigation screen...
+2019-08-27 00:23:27 INFO  LoginPage:82 - clicked on sign in link...
+2019-08-27 00:23:28 INFO  LoginPage:123 - entering registration email..1566883408585@gmail.com
+2019-08-27 00:24:29 INFO  TestBase:202 - **************testRagitsrationFinished***************
+2019-08-27 00:28:44 INFO  ExtentManager:37 - extent returned
+2019-08-27 00:28:47 INFO  TestBase:81 - Intialized the driver: 1241529534
+2019-08-27 00:28:47 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-27 00:28:47 INFO  WaitHelper:47 - Implicit wait for element to be loaded has been set to: 60 seconds
+2019-08-27 00:28:47 INFO  WaitHelper:37 - Waiting for page to load for: SECONDS seconds
+2019-08-27 00:28:47 INFO  WaitHelper:38 - Implicit wait has been set to: 60
+2019-08-27 00:28:47 INFO  WaitHelper:40 - Page is loaded.
+2019-08-27 00:28:47 INFO  TestBase:180 - **************testScreenStarted***************
+2019-08-27 00:28:48 INFO  TestBase:125 - capturing ui navigation screen...
+2019-08-27 00:28:48 INFO  TestBase:180 - **************validateLoginFunctinalityStarted***************
+2019-08-27 00:28:48 INFO  TestBase:180 - **************testRagitsrationStarted***************
+2019-08-27 00:28:54 INFO  ExtentManager:37 - extent returned
+2019-08-27 00:28:55 INFO  TestBase:81 - Intialized the driver: 1241529534
+2019-08-27 00:28:55 INFO  WaitHelper:30 - Wait helper object is created..
+2019-08-27 00:28:55 INFO  WaitHelper:47 - Implicit wait for element to be loaded has been set to: 60 seconds
+2019-08-27 00:28:55 INFO  WaitHelper:37 - Waiting for page to load for: SECONDS seconds
+2019-08-27 00:28:55 INFO  WaitHelper:38 - Implicit wait has been set to: 60
+2019-08-27 00:28:55 INFO  WaitHelper:40 - Page is loaded.
+2019-08-27 00:28:55 INFO  TestBase:180 - **************testScreenStarted***************
+2019-08-27 00:28:57 INFO  TestBase:125 - capturing ui navigation screen...
+2019-08-27 00:28:57 INFO  TestBase:180 - **************validateLoginFunctinalityStarted***************
+2019-08-27 00:28:57 INFO  TestBase:180 - **************testRagitsrationStarted***************
