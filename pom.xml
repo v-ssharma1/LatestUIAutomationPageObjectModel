@@ -151,7 +151,7 @@
 						<suiteXmlFiles>
 							<suiteXmlFile>src/main/resources/TestSuite/testng.xml</suiteXmlFile>
 							<!-- <suiteXmlFile>${suiteXmlFile}</suiteXmlFile> -->
-							<!-- <suiteXmlFile>src/main/resources/TestSuite2/testng.xml</suiteXmlFile> -->
+							<!-- <suiteXmlFile>src/main/resources/TestSuite2/testng1.xml</suiteXmlFile> -->
 						</suiteXmlFiles>
 					</configuration>
 				</plugin>

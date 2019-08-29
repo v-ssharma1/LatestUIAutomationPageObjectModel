@@ -125,12 +125,12 @@ public class TestBase {
 		log.info("capturing ui navigation screen...");
 		// Screen size is very big hence screenshots are not coming properly and hence
 		// we are jooming in for 40% so that screenshot may come properly.
-		//new JavaScriptHelper(driver).zoomINTheScrin(60);
+		// new JavaScriptHelper(driver).zoomINTheScrin(40);
 		// below line will add the screenshot to emailed report under output folder.
 		String screen = captureScreenShot("", driver);
 		// if you zoom the screen in it is necessay to zoom it out back to normal
 		// othervise system will not be able to read object locators.
-		//new JavaScriptHelper(driver).zoomOutTheScrin(120);
+		// new JavaScriptHelper(driver).zoomINTheScrin(100);
 		try {
 			// below line will add the screenshot to extent report under report folder.
 			test.addScreenCaptureFromPath(screen);
