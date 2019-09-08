@@ -15,4 +15,4 @@ pass-> Test123
 7. imp
 https://blog.carbonfive.com/2017/08/28/always-squash-and-rebase-your-git-commits/
 8.http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html
-TestJienkinlinkingwithgithub
+TestJienkinlinkingwithgithub1
